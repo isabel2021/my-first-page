@@ -46,7 +46,7 @@ image: "assets/images/Hedy-Lamarr-03.jpg"
 然后发现有人和我一样意难平：  
 这是一篇以海蒂为女主角的小说，《陪达芬奇超神的日子》
 
-### [陪达芬奇超神的日子]: (http://www.jjwxc.net/onebook.php?novelid=3617949/) 
+### [陪达芬奇超神的日子](http://www.jjwxc.net/onebook.php?novelid=3617949/)
 
 
 记录片：
