@@ -4,7 +4,7 @@ baseurl: "/my-first-page"
 # 网站的主标题
 title: "女孩子们"
 # 网站副标题
-subTitle: "用于记录我和我喜欢的女孩子的故事"
+subTitle: "逃荒之地，随手记录一些事情"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
