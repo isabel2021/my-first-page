@@ -1,11 +1,11 @@
 ---
-​---
+
 title:  "WIFI之母的介绍"
 subtitle: "海蒂·拉玛（Hedy Lamarr）的安利"
 author: "仙人腿扎掌"
 avatar: "assets/images/authors/author.jpg"
-image: "assets/images/Hedy Lamarr03.jpg"
-​---
+image: "assets/images/Hedy-Lamarr-03.jpg"
+
 
 
 ---
@@ -18,13 +18,14 @@ image: "assets/images/Hedy Lamarr03.jpg"
 
 ​      海蒂·拉玛，1914年11月9日出生于奥地利，匈牙利犹太人后裔，著名的美国演员，展频（Spread Spectrum）技术共同发明人。
 
+![海蒂照片](../assets/images/Hedy-Lamarr-01.jpg)
+
 ​      她从小家境优越，有着惊人的美貌（在记录片中，被称为“那个可怕的孩子”）同时，还有一个聪明的头脑：五岁的时候就能把一个音乐盒拆掉重装，（我一个在中学拼拼图拼到发脾气的人在此处留下眼泪）上学时更是在化学、数学课表现很好。
 
 ​      她美而自知，在燃起对电影的兴趣之后，便独自走进奥地利最大的电影厂，利用美貌为自己赢得了角色，并从龙套逐渐成长为著名女演员。（在1933年，她被半哄骗半胁迫地拍了有全裸镜头的《神魂颠倒(Ecstasy)》并一炮走红）
 
-```
-![海蒂经典造型图](../assets/images/Hedy Lamarr02)
-```
+![海蒂经典造型图](../assets/images/Hedy-Lamarr-02.jpg)
+
 
 但，美貌是利刃，伤人也可以伤己。她因为此片，在后来好莱坞时期饱受花瓶形象困扰（后来连出个记录片，前面都要加个“尤物”，此处应有白眼），留下经典名言：
 
@@ -43,9 +44,8 @@ image: "assets/images/Hedy Lamarr03.jpg"
 然后发现有人和我一样意难平：
 这是一篇以海蒂为女主角的小说，《陪达芬奇超神的日子》
 
-```
-[陪达芬奇超神的日子]: (http://www.jjwxc.net/onebook.php?novelid=3617949/)  "hedy's story in other world"
-```
+### [陪达芬奇超神的日子]: (http://www.jjwxc.net/onebook.php?novelid=3617949/) 
+
 
 记录片：
 
