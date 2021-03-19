@@ -23,7 +23,7 @@ image: "assets/images/Hedy Lamarr03.jpg"
 ​      她美而自知，在燃起对电影的兴趣之后，便独自走进奥地利最大的电影厂，利用美貌为自己赢得了角色，并从龙套逐渐成长为著名女演员。（在1933年，她被半哄骗半胁迫地拍了有全裸镜头的《神魂颠倒(Ecstasy)》并一炮走红）
 
 ```
-![海蒂经典造型图]({{ site.baseurl }}/assets/images/Hedy Lamarr02)
+![海蒂经典造型图](../assets/images/Hedy Lamarr02)
 ```
 
 但，美貌是利刃，伤人也可以伤己。她因为此片，在后来好莱坞时期饱受花瓶形象困扰（后来连出个记录片，前面都要加个“尤物”，此处应有白眼），留下经典名言：
@@ -44,7 +44,7 @@ image: "assets/images/Hedy Lamarr03.jpg"
 这是一篇以海蒂为女主角的小说，《陪达芬奇超神的日子》
 
 ```
-[陪达芬奇超神的日子]: http://http://www.jjwxc.net/onebook.php?novelid=3617949/  "hedy's story in other world"
+[陪达芬奇超神的日子]: (http://www.jjwxc.net/onebook.php?novelid=3617949/)  "hedy's story in other world"
 ```
 
 记录片：
